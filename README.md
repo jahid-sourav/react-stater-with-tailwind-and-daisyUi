@@ -1,8 +1,10 @@
 ## \*\*Using -
 
+### React.js v18
+
 ### Tailwind CSS v3
 
-### DaisyUi 4.7.3 v
+### DaisyUi v4.7.3
 
 ### React Icons
 
