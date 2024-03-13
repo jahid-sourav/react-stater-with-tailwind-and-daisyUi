@@ -1,0 +1,5 @@
+/* Template Common Styles Starts Here */
+.template-container {
+  @apply container mx-auto px-2;
+}
+/* Template Common Styles Ends Here */
