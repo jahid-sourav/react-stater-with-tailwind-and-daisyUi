@@ -1,6 +1,6 @@
 ## \*\*Using -
 
-## Tailwind CSS v3
+### Tailwind CSS v3
 
 ## DaisyUi 4.7.3 v
 
