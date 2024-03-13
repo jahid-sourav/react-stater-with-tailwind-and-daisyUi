@@ -1,4 +1,4 @@
-## Using -
+## \*\*Using -
 
 ## Tailwind CSS v3
 
@@ -6,9 +6,9 @@
 
 ## React Icons
 
-## How To Use This Stater Template -
+## \*\*How To Use This Stater Template -
 
-## clone this repo.
+## git clone https://github.com/jahid-sourav/react-stater-with-tailwind-and-daisyUi.git
 
 ## npm i
 
