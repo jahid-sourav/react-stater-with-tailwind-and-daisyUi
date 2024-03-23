@@ -2,6 +2,8 @@
 
 ### React.js v18
 
+### React Router v6.22.3
+
 ### Tailwind CSS v3
 
 ### DaisyUi v4.7.3

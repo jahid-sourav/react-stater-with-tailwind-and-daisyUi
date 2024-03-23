@@ -1,8 +1,12 @@
 .hamburger {
   @apply text-2xl cursor-pointer;
 }
-.hamburger-lists li a {
+.active-nav-link,
+.nav-link {
   @apply text-lg text-black font-medium;
+}
+.active-nav-link {
+  @apply bg-gray-300;
 }
 .header-image {
   @apply h-[50px] w-[50px] rounded-[50%] object-cover mx-auto;
